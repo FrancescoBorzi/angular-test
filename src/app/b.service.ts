@@ -1,4 +1,3 @@
-import { Injectable } from '@angular/core';
 import { AService } from './a.service';
 import { HttpClient } from '@angular/common/http';
 
